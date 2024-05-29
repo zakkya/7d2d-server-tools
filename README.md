@@ -5,6 +5,7 @@
 ## discord-notification.sh
 
 For this script, you might create a service which execute it constantly. This service should be in dependancy of your start-7d2d-server.service
+
 I created something like this :
 ```
 [Unit]
