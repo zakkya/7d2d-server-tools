@@ -1,3 +1,5 @@
+*I'm not that good in english, do not hesitate to change my words/sentences*
+
 # 7d2d-server-tools
 
 ## discord-notification.sh
